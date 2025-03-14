@@ -9,7 +9,7 @@ I build things with code—mostly focused on **AI experiments**, **game mechanic
 
 ### Current Focus  
 - **Learning**:  
-  • Leveling up my C++ for game engine work  
+  • Leveling up my Python for AI and C++ for game engine work  
   • Exploring machine learning deployment for mobile  
   • Mastering Unreal Engine 5 blueprints and systems  
 - **Building**:  
