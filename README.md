@@ -1,11 +1,11 @@
-# Hi, I'm Sultan Arfeen 👋  
+# Hello people, my name's Sultan Ul Arfeen. 
 
 I build things with code—mostly focused on **AI experiments**, **game mechanics**, and **practical apps**. I like solving problems where technology meets creativity.  
 
 ### What I Do  
-- **🤖 AI/ML Projects**: Building models for text generation, computer vision, and game AI  
-- **🎮 Game Development**: Working with Unreal Engine 5 and C++ for interactive experiences  
-- **📱 App Development**: Creating cross-platform apps with React Native/Flutter + AI integrations  
+- **AI/ML Projects**: Building models for text generation, computer vision, and game AI  
+- **Game Development**: Working with Unreal Engine 5 and C++ for interactive experiences  
+- **App Development**: Creating cross-platform apps with React Native/Flutter + AI integrations  
 
 ### Current Focus  
 - **Learning**:  
@@ -24,9 +24,9 @@ Looking to team up on:
 - Tools that make development workflows smarter  
 
 ### Let's Connect  
-📧 **Email**: [SultanArfeen420@gmail.com](mailto:SultanArfeen420@gmail.com)  
-💻 **GitHub**: [github.com/SultanArfeen](https://github.com/SultanArfeen)  
-*(He/Him pronouns)*  
+**Email**: [SultaanUlArfeen@gmail.com](mailto:SultaanUlArfeen@gmail.com)  
+**GitHub**: [github.com/SultanArfeen](https://github.com/SultanArfeen)  
+**Linkedin**: [Linkedin.com/SultanArfeen](https://www.linkedin.com/in/sultan-arfeen-560a24353/)
 
 ---  
-*Always tinkering with new tech. Let me know if you want to build something interesting.*  
+*Tinkering with new tech. Let me know if you want to build something interesting.*  
