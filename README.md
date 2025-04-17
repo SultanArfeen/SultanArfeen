@@ -1,4 +1,4 @@
-# Whats up, Fein here. 
+# Hello, Arfeen here 🙏
 
 I build things with code—mostly focused on **AI experiments**, **game mechanics**, and **practical apps**. I like solving problems where technology meets creativity.  
 
