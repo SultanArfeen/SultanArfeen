@@ -27,7 +27,7 @@
 
 ### About Me
 
-Working as the **Head of AI & Full-Stack Architecture** at **[KodeRift](https://www.linkedin.com/company/koderift/)**, I spend my days (and occasionally my nights) bridging the gap between research-grade AI and real-world utility. My work focuses on the "last mile" of development—taking complex Agentic workflows and RAG pipelines and orchestrating them into reliable, production-ready systems.
+Working as the **Head of AI & Full-Stack Architecture** at **[KodeRift](https://www.linkedin.com/company/koderift/)**, I spend my days (and occasionally my nights) bridging the gap between research-grade AI and real-world utility. My work focuses on the "last mile" of development, taking complex Agentic workflows and RAG pipelines and orchestrating them into reliable, production-ready systems.
 
 I completed my research studies at **FAST NUCES**, which gave me the math to back up the models, but my passion lies in building. I love the puzzle of connecting heavy Python backends with snappy modern frontends to create seamless user experiences.
 
