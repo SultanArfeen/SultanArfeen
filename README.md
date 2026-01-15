@@ -1,5 +1,5 @@
 # Head of AI & Full-Stack Architecture @KodeRift. 
-# Gen AI | ML | DLP | CV | MCPs | n8n Workflows | LLMs | RAGs | Finetuning | Chatbots | Agents | Full-Stack Web & App Development.
+**Gen AI | ML | DLP | CV | MCPs | n8n Workflows | LLMs | RAGs | Finetuning | Chatbots | Agents | Full-Stack Web & App Development**
 
 I am an **AI Engineer with 4 years of experience** specializing in building **Agentic AI workflows**, **RAG pipelines**, and **scalable full-stack applications**. I leverage AI-assisted tools like GitHub Copilot to accelerate the development lifecycle, delivering over 100 successful projects to date. 
 
