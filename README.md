@@ -1,27 +1,11 @@
-# Hello, Arfeen here 🙏
+# Head of AI & Full-Stack Architecture @KodeRift. 
+# Gen AI | ML | DLP | CV | MCPs | n8n Workflows | LLMs | RAGs | Finetuning | Chatbots | Agents | Full-Stack Web & App Development.
 
-I build things with code—mostly focused on **AI experiments**, **game mechanics**, and **practical apps**. I like solving problems where technology meets creativity.  
+I am an **AI Engineer with 4 years of experience** specializing in building **Agentic AI workflows**, **RAG pipelines**, and **scalable full-stack applications**. I leverage AI-assisted tools like GitHub Copilot to accelerate the development lifecycle, delivering over 100 successful projects to date. 
 
-### What I Do  
-- **AI/ML Projects**: Building models for text generation, computer vision, and game AI  
-- **Game Development**: Working with Unreal Engine 5 and C++ for interactive experiences  
-- **App Development**: Creating cross-platform apps with React Native/Flutter + AI integrations  
+Expert at bridging complex backend logic with modern frontends, focusing on high-performance, automated solutions to real world problems.
 
-### Current Focus  
-- **Learning**:  
-  • Leveling up my Python for AI and C++ for game engine work  
-  • Exploring machine learning deployment for mobile  
-  • Mastering Unreal Engine 5 blueprints and systems  
-- **Building**:  
-  • AI tools that work locally on devices  
-  • Games with smarter NPC behavior  
-  • Apps that blend utility with ML  
-
-### Collaboration Interests  
-Looking to team up on:  
-- Mobile apps using AI/ML features  
-- Game prototypes with unique mechanics  
-- Tools that make development workflows smarter  
+Currently, I'm working at **KodeRift** as the **Head Of AI & Full-Stack Architecture**. Completed my AI research and studies from FAST NUCES.
 
 ### Let's Connect  
 **Email**: [SultaanUlArfeen@gmail.com](mailto:SultaanUlArfeen@gmail.com)  
@@ -29,4 +13,3 @@ Looking to team up on:
 **Linkedin**: [Linkedin.com/SultanArfeen](https://www.linkedin.com/in/sultan-arfeen-560a24353/)
 
 ---  
-*Tinkering with new tech. Let me know if you want to build something interesting.*  
