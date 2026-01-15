@@ -14,7 +14,7 @@
   <a href="mailto:SultaanUlArfeen@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/SultanArfeen">
+  <a href="https://medium.com/@sultanularfeen">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 
@@ -26,7 +26,7 @@
 
 I am an **AI Engineer with 4 years of experience** specializing in building **Agentic AI workflows**, **RAG pipelines**, and **scalable full-stack applications**. I leverage AI-assisted tools like GitHub Copilot to accelerate the development lifecycle, delivering over **100 successful projects** to date.
 
-* 🔭 **Current Role:** Head Of AI & Full-Stack Architecture at **[KodeRift](https://koderift.com)**.
+* 🔭 **Current Role:** Head Of AI & Full-Stack Architecture at **[KodeRift](www.linkedin.com/company/koderift/)**.
 * 🎓 **Education:** Completed AI research and studies from **FAST NUCES**.
 * ⚡ **Core Focus:** Bridging complex backend logic with modern frontends, focusing on high-performance, automated solutions to real-world problems.
 
