@@ -27,11 +27,11 @@
 
 ### About Me
 
-An experienced AI Engineer, I operate at the intersection of **Generative AI** and **Enterprise System Architecture**. With 4 years of experience, my work focuses on the "last mile" of AI development—taking research-grade models and orchestrating them into reliable, production-ready applications that solve actual business problems.
+Working as the **Head of AI & Full-Stack Architecture** at **[KodeRift](https://www.linkedin.com/company/koderift/)**, I spend my days (and occasionally my nights) bridging the gap between research-grade AI and real-world utility. My work focuses on the "last mile" of development—taking complex Agentic workflows and RAG pipelines and orchestrating them into reliable, production-ready systems.
 
-Currently, I serve as the **Head of AI & Full-Stack Architecture** at **[KodeRift](https://www.linkedin.com/company/koderift/)**. My role involves not just writing code, but designing the infrastructure that allows Agentic workflows and RAG pipelines to scale. I bridge the gap between complex Python backend logic and reactive modern frontends, ensuring seamless user experiences.
+I completed my research studies at **FAST NUCES**, which gave me the math to back up the models, but my passion lies in building. I love the puzzle of connecting heavy Python backends with snappy modern frontends to create seamless user experiences.
 
-I am a strong proponent of AI-augmented development. By integrating tools like GitHub Copilot and Cursor into my daily workflow, I accelerate the development lifecycle significantly, having delivered over **100 successful projects**. My foundation in AI research comes from my time at **FAST NUCES**, where I developed a deep understanding of the mathematics behind the models I deploy today.
+I'm also a huge proponent of AI-augmented development. By integrating tools like Copilot and Cursor into my daily flow, I’ve been able to accelerate the lifecycle significantly, delivering over **100 successful projects** without losing momentum.
 
 ---
 
@@ -39,9 +39,7 @@ I am a strong proponent of AI-augmented development. By integrating tools like G
 
 <div align="center">
 
-<br/>
-<b>── Generative AI & LLM Orchestration ──</b>
-<br/>
+<b>── Artificial Intelligence & Machine Learning ──</b>
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -49,35 +47,28 @@ I am a strong proponent of AI-augmented development. By integrating tools like G
 <img src="https://img.shields.io/badge/LlamaIndex-111111?style=for-the-badge&logo=llamaindex&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-
-<br/>
-<br/>
-<b>── Vector Databases & Data ──</b>
-<br/>
-<br/>
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-D51C5C?style=for-the-badge&logo=qdrant&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
 <br/>
 <br/>
-<b>── Full Stack & Architecture ──</b>
-<br/>
+
+<b>── Full Stack Development ──</b>
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 <br/>
 <br/>
-<b>── DevOps & Automation ──</b>
-<br/>
+
+<b>── Infrastructure & Tools ──</b>
 <br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
