@@ -25,22 +25,20 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### About Me
 
-I am an **AI Engineer with 4 years of experience**, specializing in the intersection of **Generative AI** and **Enterprise Software Architecture**. I bridge complex backend logic with modern frontends to solve real-world problems.
+I am an AI Engineer with 4 years of experience, currently focused on the intersection of Generative AI and enterprise software architecture. My work revolves around bridging complex backend logic—like Agentic workflows and RAG pipelines—with modern, scalable frontends.
 
-* 🔭 **Current Role:** Head Of AI & Full-Stack Architecture at **[KodeRift](https://www.linkedin.com/company/koderift/)**.
-* 🎓 **Education:** AI Research & Studies at **FAST NUCES**.
-* 🧠 **Expertise:** Building **Agentic AI workflows**, **RAG pipelines**, and **DLP (Data Loss Prevention)** systems.
-* 🚀 **Impact:** Leveraged AI-assisted tooling (Copilot/Cursor) to accelerate lifecycles, delivering **100+ successful projects**.
+At **[KodeRift](https://www.linkedin.com/company/koderift/)**, where I serve as Head of AI & Full-Stack Architecture, I design high-performance automated solutions for real-world problems. I have a strong background in academic research from **FAST NUCES**, which I apply to practical engineering challenges.
+
+I strongly believe in leveraging AI-assisted tooling (like Copilot and Cursor) to accelerate the development lifecycle, allowing me to deliver robust systems faster. To date, I have delivered over 100 successful projects.
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Stack
 
 <div align="center">
 
-**── Artificial Intelligence & Machine Learning ──**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -53,8 +51,6 @@ I am an **AI Engineer with 4 years of experience**, specializing in the intersec
 <br/>
 <br/>
 
-**── Full Stack Development ──**
-<br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -65,19 +61,10 @@ I am an **AI Engineer with 4 years of experience**, specializing in the intersec
 <br/>
 <br/>
 
-**── Infrastructure & Tools ──**
-<br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-</div>
-
----
-
-<div align="center">
-  <br/>
-  <i>Let's build the future of Intelligent Apps together.</i>
 </div>
