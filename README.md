@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Sultan%20Ul%20Arfeen&fontSize=80&desc=Head%20of%20AI%20%26%20Full-Stack%20Architecture%20@%20KodeRift&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Sultan%20Ul%20Arfeen&fontSize=80&desc=Head%20of%20AI%20and%20Full-Stack%20Architecture%20@%20KodeRift&descAlignY=55&descAlign=50" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Gen+AI+%7C+Machine+Learning+%7C+Computer+Vision;Building+Agentic+AI+Workflows+%26+RAG+Pipelines;Delivered+100%2B+Successful+Projects;Full-Stack+Web+%26+App+Development" alt="Typing SVG" />
