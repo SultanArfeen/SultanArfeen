@@ -27,12 +27,10 @@
 
 ### About Me
 
-Working as the **Head of AI & Full-Stack Architecture** at **[KodeRift](https://www.linkedin.com/company/koderift/)**, I spend my days (and occasionally my nights) bridging the gap between research-grade AI and real-world utility. My work focuses on the "last mile" of development, taking complex Agentic workflows and RAG pipelines and orchestrating them into reliable, production-ready systems.
+I am an AI/ML Solutions Engineer with over 4 years of experience building production-grade Agentic Al Systems and End-to-End ML Pipelines. I utilize Al-assisted tools like OpenClaw and ClaudeCode to maintain a 40% higher development velocity, delivering over 30 projects to date. 
 
-I completed my research studies at **FAST NUCES**, which gave me the math to back up the models, but my passion lies in building. I love the puzzle of connecting heavy Python backends with snappy modern frontends to create seamless user experiences.
 
-I'm also a huge proponent of AI-augmented development. By integrating tools like Copilot and Cursor into my daily flow, I’ve been able to accelerate the lifecycle significantly, delivering over **30 successful projects** without losing momentum.
-
+Recently, I architected a Multi-agent RAG system featuring three LLMs in the loop, achieving a 98% faithfulness score using the RAGas framework. My unique blend of DS background with GenAI and ML expertise centers on bridging complex backends with scalable frontends to deliver high-performance, automated solutions.
 ---
 
 ### Technical Arsenal
