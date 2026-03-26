@@ -32,6 +32,7 @@ Working as the Head of AI & Full-Stack Architecture at KodeRift, I spend my days
 I completed my research studies at FAST NUCES, which gave me the math to back up the models, but my passion lies in building. I love the puzzle of connecting heavy Python backends with snappy modern frontends to create seamless user experiences.
 
 I'm also a huge proponent of AI-augmented development. By integrating tools like Copilot and Cursor into my daily flow, I’ve been able to accelerate the lifecycle significantly, delivering over 30 successful projects without losing momentum.
+
 ---
 
 ### Technical Arsenal
