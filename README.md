@@ -27,7 +27,7 @@
 
 ### About Me
 
-I am an AI/ML Solutions Engineer with over 4 years of experience building production-grade Agentic AI Systems and End-to-End ML Pipelines. I utilize AI-assisted tools like OpenClaw and ClaudeCode to maintain a 40% higher development velocity, delivering over 30 projects to date. 
+I am a Lead AI/ML Engineer with over 4 years of experience building production-grade Agentic AI Systems and End-to-End ML Pipelines. I utilize AI-assisted tools like OpenClaw and ClaudeCode to maintain a 40% higher development velocity, delivering over 30 projects to date. 
 
 
 
